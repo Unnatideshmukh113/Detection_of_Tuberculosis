@@ -1,1 +1,1 @@
-# Project1
+A deep learning-based system for early detection of Tuberculosis (TB) using chest X-ray images. Utilizes image processing, CNN models like ResNet50, and machine learning classifiers to provide accurate, automated TB diagnosis. Built with Python, Flask, TensorFlow, and deployed for user-friendly access.
